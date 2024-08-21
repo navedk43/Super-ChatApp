@@ -39,3 +39,36 @@ To get started with Super ChatApp, follow these steps:
 
    ```bash
    git clone https://github.com/navedk43/Super-ChatApp.git
+
+2. **Navigate to the Project Directory**
+
+    ```bash
+    cd Super-ChatApp
+
+3. **Install Backend Dependencies**
+   ```bash
+   cd backend
+   npm install
+   
+5. **Install Frontend Dependencies**
+   ```bash
+   cd ../frontend
+   npm install
+
+## **Running the Application**
+
+1. **Start the Backend Server**
+   ```bash
+    cd backend
+    npm run start
+   
+2. **Start the Frontend Server**
+   ```bash
+   cd ../frontend
+   npm run dev
+
+## **Usage**
+- **Sign Up**: Create a new account or log in if you already have one.
+- **Start Chatting**: Join or create chat rooms and start conversations.
+- **Customize**: Explore theme options and settings for a personalized experience.
+
