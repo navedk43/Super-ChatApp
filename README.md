@@ -23,6 +23,7 @@ Welcome to **Super ChatApp**! 🚀 A modern, feature-rich chat application built
 ## **Demo**
 
 Check out the live demo of the Super ChatApp: [Live Demo](https://example.com) *(Replace with your actual demo URL)*
+**Make sure to open account in Chatengine.io and create a new project and add the project private key in the backend code > index.js  > line : 15**
 
 ## **Technologies Used**
 
